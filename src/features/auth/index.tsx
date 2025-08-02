@@ -2,6 +2,6 @@ export function AppLogin() {
   return <div>Login</div>;
 }
 
-export function AppReg() {
-  return <div>Registration</div>;
+export function RegisterPage() {
+  return <div>Register Page</div>;
 }

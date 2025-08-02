@@ -1,3 +1,9 @@
+import { AppLogin } from '@/features/auth';
+
 export function App() {
-  return <div>App</div>;
+  return (
+    <div>
+      <AppLogin />
+    </div>
+  );
 }
